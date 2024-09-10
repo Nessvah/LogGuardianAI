@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="t"
+                 name="LogGuardianAI"
+                 start-page="starter-topic.md">
+
+    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="implementation-steps.md"/>
+    <toc-element topic="challenges-solutions.md"/>
+    <toc-element topic="outcomes-benefits.md"/>
+    <toc-element topic="case-study.md"/>
+</instance-profile>
