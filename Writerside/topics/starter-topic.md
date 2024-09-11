@@ -71,22 +71,20 @@ graph TD
 
 
 ## Feedback and support
-Please report any issues, usability improvements, or feature requests to our
-<a href="https://youtrack.jetbrains.com/newIssue?project=WRS">YouTrack project</a>
-(you will need to register).
+We welcome your feedback and suggestions to improve the AI-Powered Cloud Monitoring and Anomaly Detection system. Your input helps us enhance the tool to better meet your needs.
 
-You are welcome to join our
-<a href="https://jb.gg/WRS_Slack">public Slack workspace</a>.
-Before you do, please read our [Code of conduct](https://plugins.jetbrains.com/plugin/20158-writerside/docs/writerside-code-of-conduct.html).
-We assume that you’ve read and acknowledged it before joining.
+### How to Provide Feedback:
+- **Email**: Send your feedback or suggestions to [support@example.com](mailto:support@example.com).
+- **GitHub Issues**: If you're using the project through GitHub, feel free to submit an issue or feature request via the [issue tracker](https://github.com/your-repo/issues).
+- **Slack Channel**: Join our dedicated support channel for real-time assistance. [Join here](https://slack.example.com/invite).
 
-You can also always email us at [writerside@jetbrains.com](mailto:writerside@jetbrains.com).
+### How to Report Issues:
+If you encounter any bugs, errors, or unexpected behaviors, please provide the following details:
+1. A brief description of the issue.
+2. Steps to reproduce the problem.
+3. Logs or error messages (if applicable).
+4. Your environment setup (e.g., AWS services, Python version, etc.).
 
-<seealso>
-    <category ref="wrs">
-        <a href="https://plugins.jetbrains.com/plugin/20158-writerside/docs/markup-reference.html">Markup reference</a>
-        <a href="https://plugins.jetbrains.com/plugin/20158-writerside/docs/manage-table-of-contents.html">Reorder topics in the TOC</a>
-        <a href="https://plugins.jetbrains.com/plugin/20158-writerside/docs/local-build.html">Build and publish</a>
-        <a href="https://plugins.jetbrains.com/plugin/20158-writerside/docs/configure-search.html">Configure Search</a>
-    </category>
-</seealso>
+You can report issues via:
+- **Email**: [bugs@example.com](mailto:bugs@example.com)
+- **GitHub Issues**: [Submit a bug report](https://github.com/your-repo/issues)

@@ -21,7 +21,7 @@
 ## 4. Security and Compliance
 **Challenge**: Ensuring that the monitoring system itself does not introduce security vulnerabilities or violate compliance requirements (e.g., GDPR, HIPAA).
 - **Solution**:
-    - Apply **least privilege access controls** for all system components, ensuring that each part of the system has only the permissions it needs to function.
+    - Apply **the least privilege access controls** for all system components, ensuring that each part of the system has only the permissions it needs to function.
     - Enforce **data encryption** for logs both in transit and at rest to protect sensitive information.
     - Perform regular **security audits** and **vulnerability assessments** to ensure compliance with industry standards and best practices. Implement **audit logging** for all monitoring system activities.
 
